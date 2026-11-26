@@ -1,0 +1,5 @@
+One star. It controls the tides, never pays rent, and hides every month like it owes me money.
+---
+sha256: 30096dfd9eeee6b70b57dc66770cf3b9a294a301e9d421f46fe6ab6fe3796622
+chars: 94 (gate 1-120)
+runs: 2, byte-identical
